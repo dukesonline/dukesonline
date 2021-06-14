@@ -30,8 +30,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       <h2
-        id="21Dukes Gambling Platform Online - no Download or Installation Required"
-      >
+        id="21Dukes Gambling Platform Online - no Download or Installation Required">
         21Dukes Gambling Platform Online - no Download or Installation Required
       </h2>
       <p>
@@ -50,9 +49,7 @@ Since 21Dukes Casino Online has not set up a separate category for live casino g
       </p>
 
       <h2
-        id="21Dukes Casino Online - spoilt for choice with over 750 games
-"
-      >
+        id="21Dukes Casino Online - spoilt for choice with over 750 games">
         21Dukes Casino Online - spoilt for choice with over 750 games
       </h2>
       <p>
